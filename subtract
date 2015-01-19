@@ -1,1 +1,1 @@
-subtract(a,b):=a-b
+define subtract(a,b)=a-b
